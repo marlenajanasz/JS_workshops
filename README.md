@@ -1,4 +1,4 @@
-Both tasks are taken from the below JS workhops:
+Both tasks have been taken from the below JS workhops:
 <br>
 https://doitforalex.github.io/JavaScript/
 <br>
