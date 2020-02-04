@@ -10,9 +10,8 @@ https://doitforalex.github.io/JavaScript/
           height: 100vh; <br>
       3.Spraw, by po ustawieniu 2 kolorów i kliknięciu ustaw kolor zmienił się gradient.<br><br>
   <li>to_do_task</li>
-  Utwórz nowy mini projekt - prostą listę zakupów.
-
-  -Będzie zawierał input na produkt oraz przycisk “dodaj do listy”. Przycisk ten spowoduje dodanie nowego elementu (np. elementu li)
+  Utwórz nowy mini projekt - prostą listę zakupów.<br>
+  -Będzie zawierał input na produkt oraz przycisk “dodaj do listy”. Przycisk ten spowoduje dodanie nowego elementu (np. elementu li). 
    Przyda się też div/ul - rodzic, który będzie przechowywał listę zakupów. <br>
 
   -Rozszerzenie: zakupione produkty chcemy móc usuwać z listy. <br>
