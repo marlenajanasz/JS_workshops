@@ -12,8 +12,8 @@ https://doitforalex.github.io/JavaScript/
   <li>to_do_task</li>
   Utwórz nowy mini projekt - prostą listę zakupów.
 
-   1. Będzie zawierał input na produkt oraz przycisk “dodaj do listy”. Przycisk ten spowoduje dodanie nowego elementu (np. elementu li)
-      Przyda się też div/ul - rodzic, który będzie przechowywał listę zakupów. <br>
+  -Będzie zawierał input na produkt oraz przycisk “dodaj do listy”. Przycisk ten spowoduje dodanie nowego elementu (np. elementu li)
+   Przyda się też div/ul - rodzic, który będzie przechowywał listę zakupów. <br>
 
-   2. Rozszerzenie: zakupione produkty chcemy móc usuwać z listy. <br>
+  -Rozszerzenie: zakupione produkty chcemy móc usuwać z listy. <br>
   </ul>
