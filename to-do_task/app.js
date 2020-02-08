@@ -22,8 +22,8 @@ function addProduct(e){
 			function removeLi(){
 				ul.removeChild(li);
 			}
-	} else return;    //SP
-input.value = "";  //SP
+	} else return;    
+input.value = "";  
 
 }
 
